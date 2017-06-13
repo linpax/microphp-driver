@@ -10,5 +10,4 @@ namespace Micro\Driver;
 
 interface DriverException
 {
-
 }
